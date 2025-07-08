@@ -12,6 +12,8 @@ const About = () => {
         <div className="button">
           <a target="blank" href="https://drive.google.com/file/d/1GDA9VCrwzSuIi1Gu-ZmiFrUFsHUbCMtl/view?usp=drivesdk" className="btn btn-secondary ">Resume</a>
           <a target="blank" href="https://drive.google.com/file/d/1yS2bmB_7M5OWwrmlSIAESq7ealH7phTs/view?usp=sharing" className="btn btn-secondary ">Continuum Hypothesis</a>
+          <a target="blank" href="https://arxiv.org/abs/2402.11381" className="btn btn-secondary ">Paper in Review for Publication</a>
+          <a target="blank" href="https://oeis.org/A364237" className="btn btn-secondary ">OEIS Sequence</a>
         </div>
       </div>
       <hr/>
