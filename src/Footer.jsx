@@ -23,7 +23,7 @@ function Footer() {
 
                 <div className="contact-container" >
                     <div className="icon-item">
-                        <i className="bi bi-envelope-fill contact" ></i>acoleman@seu.edu
+                        <i className="bi bi-envelope-fill contact" ></i>annalucille.mk@gmail.com
                     </div>
                         
                     <div className="icon-item">

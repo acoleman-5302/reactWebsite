@@ -10,7 +10,7 @@ function Home() {
           <div className="hero-text">
             <h1>I am Anna Coleman</h1>
             <p>And I'm a Mathematician</p>
-            <button className=" btn btn-secondary">{<Link style={{textDecoration: 'none', color:'white'}} to="/portfolio">See my work</Link>}</button>
+            <button className=" btn btn-secondary">{<Link style={{textDecoration: 'none', color:'white'}} to="/about">Learn More</Link>}</button>
           </div>
         </div>
         

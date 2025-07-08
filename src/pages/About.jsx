@@ -29,8 +29,8 @@ const About = () => {
               <h5 className="card-title">Education</h5>
               <ul className="card-text">
                 <ul>
-                  <li>In progress - Bachelors of Science in Pure Mathematics</li>
-                  <li>In progress- certificate for Front End Development</li>
+                  <li>In progress - Masters Degree in Pure Mathematics Thesis Track</li>
+                  <li>Bachelors of Science in Pure Mathematics</li>
                 </ul>
               </ul>
             </div>
@@ -50,7 +50,8 @@ const About = () => {
               <h5 className="card-title experience">Experience</h5>
               <ul className="card-text">
                 <ul>
-                  <li>Projected -Moravian University REU 2023</li>
+                  <li>Research Project Leader for undergraduates</li>
+                  <li>Moravian University REU 2023</li>
                   <li>Lead Tutor for Academic Center of Enrichment</li>
                   <li>Teaching Assistant to the Math Department</li>
                 </ul>
