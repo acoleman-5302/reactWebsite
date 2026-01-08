@@ -29,7 +29,7 @@ const About = () => {
               <h5 className="card-title">Education</h5>
               <ul className="card-text">
                 <ul>
-                  <li>In progress - Masters Degree in Pure Mathematics Thesis Track</li>
+                  <li>In progress - Masters Degree in Pure Mathematics Thesis Track in knot theory with Hugh Howards</li>
                   <li>Bachelors of Science in Pure Mathematics</li>
                 </ul>
               </ul>
@@ -39,7 +39,7 @@ const About = () => {
               <h5 className="card-title skills">Skills</h5>
               <ul className="card-text">
                 <ul>
-                  <li>Front End Development</li>
+                  <li>Coding (This Website is Hard Coded!)</li>
                   <li>Fluent in Haitian Creole</li>
                   <li>Leadership</li>
                 </ul>
@@ -50,10 +50,11 @@ const About = () => {
               <h5 className="card-title experience">Experience</h5>
               <ul className="card-text">
                 <ul>
+                  <li>Lead TA for Wake Forest University</li>
                   <li>Research Project Leader for undergraduates</li>
                   <li>Moravian University REU 2023</li>
                   <li>Lead Tutor for Academic Center of Enrichment</li>
-                  <li>Teaching Assistant to the Math Department</li>
+                  <li>Teaching Assistant to the Math Department at Southeastern University</li>
                 </ul>
               </ul>
             </div>
@@ -79,13 +80,13 @@ const About = () => {
               <h5 className="card-title">Hobbies</h5>
               <ul className="card-text">
                 <ul>
-                  <li>Reading</li>
-                  <li>Hiking</li>
+                  <li>Reading: Favorite Author is Dostoevsky</li>
+                  <li>Hiking/Camping</li>
                 </ul>
               </ul>
             </div>
             <div className="button">
-              <a target="blank" href="https://lucielleanna02.wixsite.com/annalucielle/blogs" className="btn btn-secondary card-button">See my blog</a>
+              <a target="blank" href="https://lucielleanna02.wixsite.com/annalucielle/blogs" className="btn btn-secondary card-button">See my personal blog</a>
             </div>
           </div>
         </div>
