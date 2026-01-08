@@ -8,7 +8,7 @@ function Navbar() {
       <nav className="navbar">
         <ul className="nav-links">
           <li id="myName">
-            <p>ANNA COLEMAN</p>
+            <p>ANNA PAULEC</p>
           </li>
           <li>
             <Link exact to="/">Home</Link>

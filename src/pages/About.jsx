@@ -12,7 +12,7 @@ const About = () => {
         <div className="button">
           <a target="blank" href="https://drive.google.com/file/d/1GDA9VCrwzSuIi1Gu-ZmiFrUFsHUbCMtl/view?usp=drivesdk" className="btn btn-secondary ">Resume</a>
           <a target="blank" href="https://drive.google.com/file/d/1yS2bmB_7M5OWwrmlSIAESq7ealH7phTs/view?usp=sharing" className="btn btn-secondary ">Continuum Hypothesis</a>
-          <a target="blank" href="https://arxiv.org/abs/2402.11381" className="btn btn-secondary ">2023 REU Paper on Hypertori</a>
+          <a target="blank" href="https://drive.google.com/file/d/1FSt7pC6Rlym61ykF1G65yDSqNUwTTK8D/view?usp=drivesdk" className="btn btn-secondary ">2023 REU Paper on Hypertori</a>
           <a target="blank" href="https://drive.google.com/file/d/1TrwiIGhHVGXOl-VHyCchcqOhkKAAg0PS/view?usp=drivesdk" className="btn btn-secondary ">Hexagonal Mosaics Knot Theory JMM Talk</a>
           <a target="blank" href="https://oeis.org/A364237" className="btn btn-secondary ">OEIS Sequence</a>
         </div>
@@ -61,9 +61,26 @@ const About = () => {
             </div>
           </div>
         </div>
-
-        
+ 
         <div className="card">
+          <div className="card-header">
+            People I have worked with
+          </div>
+          <div className="card-body">
+
+            <div>
+              <h5 className="card-title">Hugh Howards</h5>
+              <ul className="card-text">
+                <ul>
+                  <li>Graduate Thesis Advisor </li>
+                </ul>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+
+         <div className="card">
           <div className="card-header">
             Personal
           </div>
@@ -93,6 +110,7 @@ const About = () => {
           </div>
         </div>
       </div>
+
 
   </div>
   )
