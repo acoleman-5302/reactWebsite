@@ -61,7 +61,8 @@ const About = () => {
             </div>
           </div>
         </div>
-  
+
+        
         <div className="card">
           <div className="card-header">
             Personal
