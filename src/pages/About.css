@@ -12,8 +12,20 @@ a{
     margin:5px;
 }
 
+
 .button{
     text-align: center;
+}
+
+.center-buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.center-buttons a {
+    margin: 0;
 }
 
 /* Small screen size */
