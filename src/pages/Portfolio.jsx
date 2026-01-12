@@ -23,7 +23,7 @@ function Portfolio (){
 
     return(
       <div> 
-        <h1>My Projects</h1><br/>
+        <h1>My Coding Projects</h1><br/>
         <hr/>
 
         {/* Takes my fetched information and maps it to display on the webpage */}

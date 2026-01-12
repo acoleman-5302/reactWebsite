@@ -74,7 +74,7 @@ const About = () => {
               <h5 className="card-title">Tony Wong</h5>
               <ul className="card-text">
                 <ul>
-                  <li>He is a professor at Kutztown University. We worked together on two projects, one of which was published. We studied sero-sum-free graphs and hypertori together. He was my REU mentor, and continues to pour into my academic career. </li>
+                  <li>He is a professor at Kutztown University. We worked together on two projects, one of which was published. We studied sero-sum-free graphs and disjoint path covers on hypertori together. He was my REU mentor, and continues to pour into my academic career. </li>
                 </ul>
               </ul>
             </div>
@@ -83,7 +83,7 @@ const About = () => {
               <h5 className="card-title">Joshua Harrington</h5>
               <ul className="card-text">
                 <ul>
-                  <li>He currently works at Cedar Crest College. Similar story to Tony Wong. We worked on the same projects together. </li>
+                  <li>He currently works at Cedar Crest College. Exact same story as Tony Wong. We worked on the same projects together, and he continues to mentor me. </li>
                 </ul>
               </ul>
             </div>
@@ -98,7 +98,7 @@ const About = () => {
           </div>
 
           <div>
-              <h5 className="card-title">Prefer to remain unnamed</h5>
+              <h5 className="card-title">Undergrads</h5>
               <ul className="card-text">
                 <ul>
                   <li> Three undergraduates, who worked with me at Wake Forest University on playing chess on a torus. This was through our Research Training Program led by Dr. Abbey Bourdon. </li>
@@ -128,7 +128,7 @@ const About = () => {
               <h5 className="card-title">Background</h5>
               <ul className="card-text">
                 <ul>
-                  <li>I grew up as a missionary kid in the country of Haiti and moved to Florida for my college career three years ago. I am founded in my faith of Christianity and believe there is one God whom through I do all things. Since moving to America, I have found such a love for the beauty within mathematics and cannot help but see the creator's brush stroke of creation through it all! </li>
+                  <li>I grew up as a missionary kid in the country of Haiti and moved to Florida for my college career in 2020. I am founded in my faith of Christianity and believe there is one God whom through I do all things. Since moving to America, I have found such a love for the beauty within mathematics and cannot help but see the creator's brush stroke of creation through it all! </li>
                 </ul>
               </ul>
             </div>
