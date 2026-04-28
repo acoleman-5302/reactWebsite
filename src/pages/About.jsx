@@ -11,10 +11,10 @@ const About = () => {
         <p>I am a pure mathematician, getting my Masters Degree at Wake Forest University. I created this website during one of my Front End Development classes in undergrad. I enjoy almost every subject. My thesis is in topology, my undergad focus was graph theory and logic, with lots of deep diving into the continuum hypothesis by Georg Cantor. For more professional information, take a quick look at my CV. I have also linked any work I have done that you may be interested in exploring.</p>
 
         <div className="center-buttons">
-          <a target="blank" href="https://docs.google.com/document/d/1hyfNTj2yG620XLHfx1gZBuNUlZhqnN9T/edit?usp=drivesdk&ouid=103434629873334014184&rtpof=true&sd=true" className="btn btn-secondary ">Curriculum Vitae</a>
+          <a target="blank" href="https://docs.google.com/document/d/1J5capqhmaqUMvuoIDFIa17dHGBgQw7uB/edit?usp=drivesdk&ouid=103434629873334014184&rtpof=true&sd=true" className="btn btn-secondary ">Curriculum Vitae</a>
           <a target="blank" href="https://youtu.be/fqDuDTqwk3s" className="btn btn-secondary ">Torch Talk- Knotty Nature: Knot Theory and its applications</a>
           <a target="blank" href="https://drive.google.com/file/d/1FSt7pC6Rlym61ykF1G65yDSqNUwTTK8D/view?usp=drivesdk" className="btn btn-secondary ">Paired (n − 1)-to-(n − 1) Disjoint Path Covers in Bipartite Transposition-Like Graphs</a>
-          <a target="blank" href="https://drive.google.com/file/d/1TrwiIGhHVGXOl-VHyCchcqOhkKAAg0PS/view?usp=drivesdk" className="btn btn-secondary ">Hexagonal Mosaics Knot Theory JMM 2026 Talk</a>
+          <a target="blank" href="https://drive.google.com/file/d/1Kt48uQOT6OJRbo4_lOIchKjPphiKpd7U/view?usp=drivesdk" className="btn btn-secondary ">Hexagonal Mosaics Knot Theory Thesis Defense</a>
           <a target="blank" href="https://oeis.org/A364237" className="btn btn-secondary ">OEIS Sequence</a>
           <a target="blank" href="https://drive.google.com/file/d/1yS2bmB_7M5OWwrmlSIAESq7ealH7phTs/view?usp=sharing" className="btn btn-secondary ">Continuum Hypothesis</a>
                  
