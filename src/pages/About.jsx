@@ -8,7 +8,7 @@ const About = () => {
       <hr/>
       <div className="learn">
         <h3>Welcome to my page!</h3>
-        <p>I am a pure mathematician, getting my Masters Degree at Wake Forest University. I created this website during one of my Front End Development classes in undergrad. I enjoy almost every subject. My thesis is in topology, my undergad focus was graph theory and logic, with lots of deep diving into the continuum hypothesis by Georg Cantor. For more professional information, take a quick look at my CV. I have also linked any work I have done that you may be interested in exploring.</p>
+        <p>I am a pure mathematician, getting my Phd at Arizona State University. I created this website during one of my Front End Development classes in undergrad. I enjoy almost every subject. My thesis is in topology, my undergad focus was graph theory and logic, with lots of deep diving into the continuum hypothesis by Georg Cantor. For more professional information, take a quick look at my CV. I have also linked any work I have done that you may be interested in exploring.</p>
 
         <div className="center-buttons">
           <a target="blank" href="https://docs.google.com/document/d/1LJGHKMESGsa4kGxUCDKhFGoVn_tS5Ohg/edit?usp=drivesdk&ouid=110786866573694236401&rtpof=true&sd=true" className="btn btn-secondary ">Curriculum Vitae</a>
