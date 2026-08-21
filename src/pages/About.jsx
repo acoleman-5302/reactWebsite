@@ -33,7 +33,8 @@ const About = () => {
               <h5 className="card-title">Education</h5>
               <ul className="card-text">
                 <ul>
-                  <li>In progress - Masters Degree in Pure Mathematics Thesis Track in knot theory with Hugh Howards</li>
+                  <li>In Progress - PhD in Pure Mathematics under Dr. Eleni Panagiotou</li>
+                  <li>Masters Degree in Pure Mathematics Thesis Track in knot theory with Hugh Howards</li>
                   <li>Bachelors of Science in Pure Mathematics</li>
                 </ul>
               </ul>
