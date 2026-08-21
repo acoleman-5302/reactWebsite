@@ -26,9 +26,9 @@ function Footer() {
                         <i className="bi bi-envelope-fill contact" ></i>annalucille.mk@gmail.com
                     </div>
                         
-                    <div className="icon-item">
+                    {/* <div className="icon-item">
                             <i className="bi bi-telephone-fill contact"></i>(229)834-6319
-                    </div> 
+                    </div>  */}
                 </div>
 
             </footer>
